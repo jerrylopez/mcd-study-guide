@@ -4,7 +4,6 @@ I am currently going through the study guide, so I can get certified. Sad thing 
 
 ## Table of Content
 
-- Introduction
 - Basics
 - Request Flow
 - Rendering
@@ -15,5 +14,3 @@ I am currently going through the study guide, so I can get certified. Sad thing 
 - Checkout
 - Sales and Customers
 - Advanced features
-- Sample Questions
-- Answers to Sample Questions
