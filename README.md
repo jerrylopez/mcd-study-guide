@@ -14,3 +14,4 @@ I am currently going through the study guide, so I can get certified. Sad thing 
 - [Checkout](https://github.com/jerrylopez/mcd-study-guide/blob/master/pages/Checkout.md)
 - [Sales and Customers](https://github.com/jerrylopez/mcd-study-guide/blob/master/pages/Sales-and-Customers.md)
 - [Advanced features](https://github.com/jerrylopez/mcd-study-guide/blob/master/pages/Advanced-features.md)
+- [Enterprise Edition](https://github.com/jerrylopez/mcd-study-guide/blob/master/pages/Enterprise-Edition.md)
