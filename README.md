@@ -1,4 +1,4 @@
-# Magento Certified Developer Study Guide
+# Magento Certified Developer & Developer Plus Study Guide
 
 I am currently going through the study guide, so I can get certified. Sad thing is that the study guide doesn't come with answers. As I go through the study I'll add all if it's contents along with answers, answer from around the Magento community, my two cents and credits. Hopefully after I'm done someone else can find this helpful :thumbsup:
 
