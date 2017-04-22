@@ -52,3 +52,9 @@ As shown directory structure above module is broken up into the following compon
 #### Explain class naming conventions and their relationship with the autoloader
 
 #### Describe methods for resolving module conflicts.
+
+# Credits
+
+[Magento Extension Developers Guide](http://info2.magento.com/rs/magentosoftware/images/Magento-Extension-Developers-Guide-v1.0.pdf)
+
+[Magento Certified Developer Exam Study Guide](http://info2.magento.com/rs/magentosoftware/images/Certification-Study-Guide-MCD-v1.pdf)
