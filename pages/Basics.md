@@ -5,14 +5,14 @@ drawn randomly from the following topics and objectives:
 
 ## High-level Magento architecture
 
-#### Describe Magento codepools
+### Describe Magento codepools
 
 - **Community:** contains files that have been extended from the core code pool and that can apply to several different instances of Magento. Most extension developers make their changes and additions in this code pool because their extensions can be used by any merchant who installs their extension.
 - **Core:** contains the base Magento application. Only Magento core product developers should change files in this code pool. **NEVER EDIT FILES IN THIS POOL**
 - **Local:** contains files that have been extended from the core code pool but that will only be used by a specific instance of Magento. The local code pool is used by merchants who want to customize their platforms, but do not want to make their customizations available to the community at large.
 
 
-#### Describe typical Magento module structure
+### Describe typical Magento module structure
 
 Files are grouped together based on functionality into modules. The directory structure below is what you will typically see.
 
@@ -43,15 +43,15 @@ As shown directory structure above module is broken up into the following compon
 - **Schema SQL Scripts:** SQL scripts that implement schema changes to a specific module.
 - **Data SQL Scripts:** Scripts that manipulate the data for the SQL schema of a module. Pay strict attention to this as different upgrades were added in Magento Enterprise Edition (EE) 1.11 and Magento Community Edition (CE) 1.6.
 
-#### Describe Magento templates and layout files location
+### Describe Magento templates and layout files location
 
-#### Describe Magento skin and JavaScript files location
+### Describe Magento skin and JavaScript files location
 
-#### Identify and explain the main Magento design areas (adminhtml and frontend)
+### Identify and explain the main Magento design areas (adminhtml and frontend)
 
-#### Explain class naming conventions and their relationship with the autoloader
+### Explain class naming conventions and their relationship with the autoloader
 
-#### Describe methods for resolving module conflicts.
+### Describe methods for resolving module conflicts.
 
 To verify your understanding of these objectives, ask yourself the following questions:
 
@@ -97,9 +97,9 @@ These code references can be used as an entry point to find answers to the quest
 
 ## Internationalization
 
-#### Describe how to plan for internationalization of a Magento site
-#### Describe the use of Magento translate classes and translate files
-#### Describe the advantages and disadvantages of using subdomains and subdirectories in internationalization
+### Describe how to plan for internationalization of a Magento site
+### Describe the use of Magento translate classes and translate files
+### Describe the advantages and disadvantages of using subdomains and subdirectories in internationalization
 
 To verify your understanding of these objectives, ask yourself the following questions:
 
