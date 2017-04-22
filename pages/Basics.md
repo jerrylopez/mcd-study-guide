@@ -45,7 +45,13 @@ As shown directory structure above module is broken up into the following compon
 
 ### Describe Magento templates and layout files location
 
+- **Templates:** `app/design/frontend/THEME_PACKAGE/THEME/template/`
+- **Layouts:** `app/design/frontend/THEME_PACKAGE/THEME/layout/`
+
 ### Describe Magento skin and JavaScript files location
+
+- **Skin:** `skin/frontend/THEME_PACKAGE/THEME/`
+- **JavaScript:** `js/`
 
 ### Identify and explain the main Magento design areas (adminhtml and frontend)
 
