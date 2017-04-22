@@ -1,6 +1,6 @@
 # Magento Certified Developer Study Guide
 
-I am currently going through the study guide, so I can get certified. Sad thing is that the study guide doesn't come with answers. As I study and go through the study guide I'll add all if it's contents along with answers.
+I am currently going through the study guide, so I can get certified. Sad thing is that the study guide doesn't come with answers. As I go through the study I'll add all if it's contents along with answers, my two cents and credits. Hopefully after I'm done someone else can find this helpful :thumbsup:
 
 ## Table of Content
 
