@@ -53,6 +53,67 @@ As shown directory structure above module is broken up into the following compon
 
 #### Describe methods for resolving module conflicts.
 
+To verify your understanding of these objectives, ask yourself the following questions:
+
+
+1. **How does the framework interact with the various codepools?**
+2. **What constitutes a namespace and a module?**
+3. **What does the structure of a complete theme look like?**
+
+
+These code references can be used as an entry point to find answers to the questions above:
+
+- Mage_Core_Model_App
+- Mage_Core_Model_Config
+- Varien_Autoload
+
+## Magento Configuration
+
+- Explain how Magento loads and manipulates configuration information ○ Describe class group configuration and use in factory methods
+- Describe the process and configuration of class overrides in Magento
+- Register an Observer
+- Identify the function and proper use of automatically available events, including *_load_after, etc.
+- Set up a cron job
+
+Since Magento is an XML DOM configuration-based framework, a thorough understanding of how Magento loads and assembles its configuration XML DOM is a core competency.
+
+1. **How does the framework discover active modules and their configuration?**
+2. **What are the common methods with which the framework accesses its configuration values and areas?**
+3. **How are per-store configuration values established in the XML DOM?**
+4. **By what process do the factory methods and autoloader enable class instantiation?**
+5. **Which class types have configured prefixes, and how does this relate to class overrides?**
+6. **Which class types and files have explicit paths?**
+7. **What configuration parameters are available for event observers?**
+8. **What are the interface and configuration options for automatically fired events?**
+9. **What is the structure of event observers, and how are properties accessed therein?**
+10. **What configuration parameters are available for cron jobs?**
+
+These code references can be used as an entry point to find answers to the questions above:
+
+- Mage_Core_Model_App_Area 
+- Mage_Core_Model_Config
+- Mage_Core_Model_Store
+- Varien_Event_Observer
+
+## Internationalization
+
+#### Describe how to plan for internationalization of a Magento site
+#### Describe the use of Magento translate classes and translate files
+#### Describe the advantages and disadvantages of using subdomains and subdirectories in internationalization
+
+To verify your understanding of these objectives, ask yourself the following questions:
+
+1. **Which method is used for translating strings, and on which types of objects is it generally available?**
+2. **In what way does the developer mode influence how Magento handles translations?**
+3. **How many options exist to add a custom translation for any given string?**
+4. **What is the priority of translation options?**
+5. **How are translation conflicts (when two modules translate the same string) processed by Magento?**
+
+These code references can be used as an entry point to find answers to the questions above:
+
+- Mage_Core_Model_Translate::init()
+- Mage_Core_Model_Locale::emulate()
+
 # Credits
 
 [Magento Extension Developers Guide](http://info2.magento.com/rs/magentosoftware/images/Magento-Extension-Developers-Guide-v1.0.pdf)
