@@ -59,6 +59,12 @@ As shown directory structure above module is broken up into the following compon
 
 ### Describe methods for resolving module conflicts.
 
+#### Method 1: Merge Conflicting Classes
+
+#### Method 2: Remove `<rewrite>` & extends other conflicting class
+
+#### Method 3: Using `<depends>`
+
 To verify your understanding of these objectives, ask yourself the following questions:
 
 
