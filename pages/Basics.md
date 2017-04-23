@@ -125,3 +125,7 @@ These code references can be used as an entry point to find answers to the quest
 [Magento Extension Developers Guide](http://info2.magento.com/rs/magentosoftware/images/Magento-Extension-Developers-Guide-v1.0.pdf)
 
 [Magento Certified Developer Exam Study Guide](http://info2.magento.com/rs/magentosoftware/images/Certification-Study-Guide-MCD-v1.pdf)
+
+[Resolving Magento Extension Conflicts by WebShopApps](http://webshopapps.com/blog/2010/11/resolving-magento-extension-conflicts/)
+
+[Ways to Identify and Resolve Magento Extension Conflicts by M-Connect Solutions](https://www.mconnectmedia.com/blog/ways-to-identify-and-resolve-magento-extension-conflicts/)
